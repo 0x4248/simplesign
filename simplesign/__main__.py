@@ -1,7 +1,7 @@
 # Simple sign
 # Easily sign or hash text messages using your private key and sha265 or any hashing algorithm.
-# Github:https://www.github.com/lewisevans2007/simplesign
-# By: Lewis Evans
+# Github:https://www.github.com/0x4248/simplesign
+# By: 0x4248
 
 import argparse
 import base64
